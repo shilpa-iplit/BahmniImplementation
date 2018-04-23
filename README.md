@@ -6,7 +6,7 @@
 
 # Start
 Following are the _table.scss file contents for generating CSS of clinical.css 
-/*scroll in investigation chart table*/
+/*scroll investigation chart table*/
 table.investigation-chart {
 	max-height: 250px;
 	overflow: auto;
